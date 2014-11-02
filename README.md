@@ -1,0 +1,4 @@
+SPM
+===
+
+Slackware Package Manager
