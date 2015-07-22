@@ -1,4 +1,4 @@
-SPM
+slackpkg
 ===
 
 Slackware Package Manager
